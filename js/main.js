@@ -11,7 +11,7 @@ $(document).ready(function(){
     //city.unshift("Busan");  => city = ["Busan", "Seoul"];
     console.log(city);
 
-    var myKey = "784643bf8763674861592b3e8a4a5120";
+    var myKey = "78cd35cae79dbf3ae9f4ee13c36cf528";
 
     var state_icon = "";  //날씨 아이콘의 이름을 초기 변수로 구성(전역변수) - https://erikflowers.github.io/weather-icons/ 싸이트의 날씨 이미지와 매칭되는 클래스명을 담음
 
@@ -112,7 +112,7 @@ $(document).ready(function(){
     
     
     /*
-    http(HyperText Transfer Protocol) : 문자 데이터 파일을 주소에 이동키겠다는 의미
+    http(HyperText Transfer Protocol) : 문자 데이터 파일을 주소에 이동시키겠다는 의미
     https(HyperText Transfer Protocol over Secure Socket Layer) : 문자 데이터 파일을 주소에 이동키겠다는 의미 + 보안 추가(예시, norton security)
     */
     
